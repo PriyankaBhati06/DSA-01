@@ -1,4 +1,4 @@
 # DSA-01
 SelectionSort Algorithm.
 <br>
-Author-Priyanka Bhati
+Author-Priyanka Bhati(DSA Journey)
